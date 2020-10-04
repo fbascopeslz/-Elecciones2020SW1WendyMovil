@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\fbasc\\Desktop\\Elecciones 2020 SW1 (Wendy)\\proyecto_elecciones_2020\\build\\image_picker\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-az\\values-az.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fbasc\\.gradle\\caches\\transforms-2\\files-2.1\\b1eed8b0fb1c7333690193cc1717ad39\\core-1.0.2\\res\\values-az\\values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\fbasc\\Desktop\\Elecciones 2020 SW1 (Wendy)\\proyecto_elecciones_2020\\build\\image_picker\\intermediates\\res\\merged\\release\\values-az\\values-az.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fbasc\\.gradle\\caches\\transforms-2\\files-2.1\\b1eed8b0fb1c7333690193cc1717ad39\\core-1.0.2\\res\\values-az\\values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

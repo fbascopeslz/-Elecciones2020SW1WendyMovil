@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\fbasc\\Desktop\\Elecciones 2020 SW1 (Wendy)\\proyecto_elecciones_2020\\build\\firebase_ml_vision\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\fbasc\\.gradle\\caches\\transforms-2\\files-2.1\\e9cdd8dd83e77290ca1e7e9e123cd445\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\fbasc\\Desktop\\Elecciones 2020 SW1 (Wendy)\\proyecto_elecciones_2020\\build\\firebase_ml_vision\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\fbasc\\.gradle\\caches\\transforms-2\\files-2.1\\e9cdd8dd83e77290ca1e7e9e123cd445\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\fbasc\\Desktop\\Elecciones 2020 SW1 (Wendy)\\proyecto_elecciones_2020\\build\\firebase_ml_vision\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\fbasc\\.gradle\\caches\\transforms-2\\files-2.1\\e9cdd8dd83e77290ca1e7e9e123cd445\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\fbasc\\Desktop\\Elecciones 2020 SW1 (Wendy)\\proyecto_elecciones_2020\\build\\barcode_scan\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\fbasc\\.gradle\\caches\\transforms-2\\files-2.1\\1fdf79b6b9ac9fa5d6e1168216547a10\\material-1.1.0\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\fbasc\\Desktop\\Elecciones 2020 SW1 (Wendy)\\proyecto_elecciones_2020\\build\\barcode_scan\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\fbasc\\.gradle\\caches\\transforms-2\\files-2.1\\1fdf79b6b9ac9fa5d6e1168216547a10\\material-1.1.0\\res\\interpolator-v21\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\fbasc\\Desktop\\Elecciones 2020 SW1 (Wendy)\\proyecto_elecciones_2020\\build\\barcode_scan\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\fbasc\\.gradle\\caches\\transforms-2\\files-2.1\\1fdf79b6b9ac9fa5d6e1168216547a10\\material-1.1.0\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
+    }
+]
